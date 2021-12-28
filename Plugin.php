@@ -12,7 +12,7 @@ class Plugin extends \MapasCulturais\Plugin
     {
         parent::__construct($config);
     }
-
+    //Teste		
     public function _init()
     {
         $app = App::i();
